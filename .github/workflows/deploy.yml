@@ -4,7 +4,7 @@ on:
   repository_dispatch:
   push:
     branches:
-      - main
+      - 0d32498
 jobs:
   deploy:
     runs-on: ubuntu-latest
